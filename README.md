@@ -9,7 +9,7 @@ Proposed solution:
 - The idea is that sentences that came from the same paper will end up in the same cluster - sentences from other papers which end up in this cluster would possibly be plagiarized
 Results:
 - When running the program on a sample of 50 papers, the results were inconclusive
-- Each cluster had sentences from ~45 different papers (add screenshot) although there are dominant papers in each one which indicates that with appropriate adjustments this method might prove useful in plagiarism detection
+- Each cluster had sentences from ~45 different papers, although there are dominant papers in each one which indicates that with appropriate adjustments this method might prove useful in plagiarism detection
 
 
 Improvement ideas:
